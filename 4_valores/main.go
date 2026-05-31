@@ -17,6 +17,9 @@ func main() {
 	resultado := float64(numeroEntero) + numeroFlotante
 	fmt.Println(resultado)
 
+	resultado2 := numeroEntero + int(numeroFlotante)
+	fmt.Println(resultado2)
+
 	var nombre string = "Adam"
 	fmt.Println(nombre)
 	appellido := "Smith"
