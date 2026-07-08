@@ -1,5 +1,6 @@
 # Curso de Go
 
+https://gobyexample.com/
 
 # Clase 2 instalar
 
